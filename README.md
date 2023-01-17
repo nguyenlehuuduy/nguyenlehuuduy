@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Duy Nguyen Le Huu Duy</h1> 
+<h1 align="center">Hi 👋, I'm Nguyen Le Huu Duy</h1> 
 <h3 align="center">A passionate frontend developer from Viet Nam</h3>
 <p align="left">🔞 I'm 20 years old</p>
 <p align="left">👦 I am currently a student</p>
